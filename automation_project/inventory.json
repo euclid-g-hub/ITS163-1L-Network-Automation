@@ -1,0 +1,6 @@
+[
+    {"hostname": "R1-CORE", "ip": "192.168.10.1", "type": "Cisco ISR 4331 Router", "location": "Main Office"},
+    {"hostname": "SW1-ACCESS", "ip": "192.168.10.2", "type": "Cisco Catalyst 2960 Switch", "location": "Floor 1"},
+    {"hostname": "SW2-DIST", "ip": "192.168.10.3", "type": "Cisco Catalyst 3650 Switch", "location": "Floor 2"},
+    {"hostname": "FW1-EDGE", "ip": "192.168.10.4", "type": "Cisco ASA 5506-X Firewall", "location": "Data Center"}
+]
